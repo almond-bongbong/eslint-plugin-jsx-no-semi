@@ -53,4 +53,3 @@ const App = () => {
 ## License
 
 MIT
-```
