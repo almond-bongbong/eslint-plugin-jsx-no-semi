@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-jsx-no-semi",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "ESLint plugin to disallow semicolons in JSX",
   "main": "index.js",
   "scripts": {
