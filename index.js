@@ -15,7 +15,7 @@ module.exports = {
 				// Create a Set to keep track of reported nodes to avoid duplicate reports
 				const reportedNodes = new Set();
 				// Regular expression to match lines ending with a semicolon
-				const semicolonPattern = /;$/;
+				const semicolonPattern = /;/;
 
 				// Function to check for semicolons in the given text and report if found
 				function checkForSemicolons(text, node) {
